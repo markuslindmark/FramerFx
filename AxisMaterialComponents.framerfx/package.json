@@ -1,0 +1,24 @@
+{
+	"license": "MIT",
+	"main": "dist/index.js",
+	"devDependencies": {
+		"@types/react": "^16.8",
+		"chokidar-cli": "^2.1.0"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"displayName": "Axis Components"
+	},
+	"author": "Markus Lindmark",
+	"name": "@framer/225jty51.axis-components",
+	"version": "1.0.0",
+	"dependencies": {
+		"@axis/material-ui-theme": "git+https://github.com/LKP-RnD/material-ui-theme.git#semver:^0.0.1",
+		"@material-ui/icons": "^4.9.1",
+		"naming-style": "^1.0.1",
+		"pascalcase": "^1.0.0"
+	}
+}

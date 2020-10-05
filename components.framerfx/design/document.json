@@ -3,70 +3,90 @@
     "__class" : "RootNode",
     "children" : [
       {
-        "__class" : "CodeComponentNode",
-        "aspectRatio" : null,
-        "bottom" : null,
-        "centerAnchorX" : 0,
-        "centerAnchorY" : 0,
+        "__class" : "PageNode",
         "children" : [
+          {
+            "__class" : "CodeComponentNode",
+            "aspectRatio" : null,
+            "bottom" : null,
+            "centerAnchorX" : 0,
+            "centerAnchorY" : 0,
+            "clip" : true,
+            "codeComponentIdentifier" : ".\/ExampleComponent.tsx_ExampleComponent",
+            "codeComponentPackageVersion" : null,
+            "codeComponentProps" : {
+              "age" : 23,
+              "name" : "Bob!"
+            },
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "duplicatedFrom" : null,
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "rgba(255,255,255,1)",
+            "fillEnabled" : false,
+            "fillImage" : null,
+            "fillImageOriginalName" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "height" : 200,
+            "heightType" : 0,
+            "id" : "H6R_GSX8u",
+            "intrinsicHeight" : null,
+            "intrinsicWidth" : null,
+            "left" : 549,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "xe6f93LMp-page",
+            "previewSettings" : null,
+            "radius" : 0,
+            "radiusBottomLeft" : 0,
+            "radiusBottomRight" : 0,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 0,
+            "radiusTopRight" : 0,
+            "right" : null,
+            "rotation" : 0,
+            "top" : 195,
+            "visible" : true,
+            "width" : 411,
+            "widthType" : 0
+          }
+        ],
+        "duplicatedFrom" : null,
+        "guidesX" : [
 
         ],
-        "clip" : true,
-        "codeComponentIdentifier" : ".\/ExampleComponent.tsx_ExampleComponent",
-        "codeComponentProps" : {
-          "age" : 23,
-          "name" : "Bob!"
-        },
-        "codeOverrideEnabled" : false,
-        "constraintsLocked" : false,
-        "exportOptions" : [
+        "guidesY" : [
 
         ],
-        "fillColor" : "rgba(255,255,255,1)",
-        "fillEnabled" : false,
-        "fillGradient" : {
-          "__class" : "LinearGradient",
-          "alpha" : 1,
-          "angle" : 0,
-          "end" : "rgba(0,0,0,0)",
-          "start" : "black"
-        },
-        "fillImage" : null,
-        "fillImagePixelHeight" : null,
-        "fillImagePixelWidth" : null,
-        "fillImageResize" : "fill",
-        "fillType" : "color",
-        "height" : 200,
-        "heightType" : 0,
-        "id" : "H6R_GSX8u",
-        "intrinsicHeight" : null,
-        "intrinsicWidth" : null,
-        "left" : 612,
-        "locked" : false,
-        "name" : null,
-        "opacity" : 1,
+        "homeNodeId" : null,
+        "id" : "xe6f93LMp-page",
+        "name" : "Page 1",
         "originalid" : null,
         "parentid" : "xe6f93LMp",
-        "radius" : 0,
-        "radiusBottomLeft" : 0,
-        "radiusBottomRight" : 0,
-        "radiusIsRelative" : false,
-        "radiusPerCorner" : false,
-        "radiusTopLeft" : 0,
-        "radiusTopRight" : 0,
-        "right" : null,
-        "rotation" : 0,
-        "top" : 208,
-        "visible" : true,
-        "width" : 200,
-        "widthType" : 0
+        "visible" : false
       }
     ],
+    "disableBackdropFilters" : false,
+    "duplicatedFrom" : null,
     "id" : "xe6f93LMp",
     "name" : null,
     "originalid" : null,
     "parentid" : null,
+    "tokens" : {
+
+    },
+    "tokensIndex" : [
+
+    ],
     "visible" : false
   },
-  "version" : 48
+  "version" : 69
 }
