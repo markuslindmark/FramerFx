@@ -37,7 +37,7 @@ addPropertyControls(Test, {
   text: {
     title: 'Text',
     type: ControlType.String,
-    defaultValue: 'Hello Framer v3!',
+    defaultValue: 'Hello Framer blaj!',
   },
   tint: {
     title: 'Tint',

@@ -3,8 +3,8 @@ import { MuiThemeProvider } from '@material-ui/core/styles';
 import { useStore } from './storeCreator';
 import { CssBaseline, ThemeProvider } from '@material-ui/core';
 import { createMuiTheme } from '@material-ui/core/styles';
-import { themeDark as axisThemeDark } from '@axis/material-ui-theme';
-import { themeLight as axisThemeLight } from '@axis/material-ui-theme';
+import { themeDark as axisThemeDark } from 'framerstyle';
+import { themeLight as axisThemeLight } from 'framerstyle';
 
 const themeDark = createMuiTheme({
   ...axisThemeDark,

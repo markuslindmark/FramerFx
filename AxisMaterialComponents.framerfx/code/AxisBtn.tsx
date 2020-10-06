@@ -5,8 +5,9 @@ import { addPropertyControls, ControlType } from 'framer';
 import MuiButton from '@material-ui/core/Button';
 import { AxisIcon } from './AxisIcon';
 import { MuiThemeProvider } from '@material-ui/core/styles';
-import { themeDark } from '@axis/material-ui-theme/src/theme-dark';
-import { themeLight } from '@axis/material-ui-theme/src/theme-light';
+import { createMuiTheme } from '@material-ui/core/styles';
+import { themeDark as axisThemeDark } from 'framerstyle';
+import { themeLight as axisThemeLight } from 'framerstyle';
 import { withHOC } from './withHOC';
 
 interface Props {
@@ -40,7 +41,7 @@ const defaultProps: Props = {
   fullWidth: false,
   size: 'medium',
   startIcon: undefined,
-  variant: 'outlined',
+  variant: 'contained',
   startIconTheme: 'Filled',
   endIconTheme: 'Filled',
   label: 'Button',
@@ -48,6 +49,26 @@ const defaultProps: Props = {
   height: 38,
   iconWidth: 20,
 };
+
+const themeDark = createMuiTheme({
+  ...axisThemeDark,
+  palette: {
+    ...axisThemeDark.palette,
+  },
+  typography: {
+    ...axisThemeDark.typography,
+  },
+});
+
+const themeLight = createMuiTheme({
+  ...axisThemeDark,
+  palette: {
+    ...axisThemeLight.palette,
+  },
+  typography: {
+    ...axisThemeLight.typography,
+  },
+});
 
 const AxisBtn: React.FC<Props> = (props: Props) => {
   const {

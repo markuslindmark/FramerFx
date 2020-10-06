@@ -1,0 +1,20 @@
+{
+  "main": "dist/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.8",
+    "framer": "^1.0"
+  },
+  "peerDependencies": {
+    "framer": "^1.0",
+    "react": "^16.8"
+  },
+  "dependencies": {
+    "@framer/225jty51.axis-components": "^1.0.0",
+    "@framer/framer.default": "^1.76.0"
+  },
+  "framer": {
+    "id": "1fb239d7-533e-426e-bb3b-3af965fc364b"
+  },
+  "author": "Markus Lindmark"
+}
