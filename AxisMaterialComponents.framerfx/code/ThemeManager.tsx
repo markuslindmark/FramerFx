@@ -17,7 +17,7 @@ const themeDark = createMuiTheme({
 });
 
 const themeLight = createMuiTheme({
-  ...axisThemeDark,
+  ...axisThemeLight,
   palette: {
     ...axisThemeLight.palette,
   },

@@ -12,7 +12,7 @@ import { withHOC } from './withHOC';
 
 interface Props {
   themeToggle: boolean;
-  theme: any;
+  localTheme: any;
   color?: 'default' | 'inherit' | 'primary' | 'secondary';
   disabled?: boolean;
   disableElevation?: boolean;
@@ -33,7 +33,7 @@ interface Props {
 
 const defaultProps: Props = {
   themeToggle: false,
-  theme: false,
+  localTheme: false,
   color: 'primary',
   disabled: false,
   disableElevation: false,
@@ -61,7 +61,7 @@ const themeDark = createMuiTheme({
 });
 
 const themeLight = createMuiTheme({
-  ...axisThemeDark,
+  ...axisThemeLight,
   palette: {
     ...axisThemeLight.palette,
   },
@@ -73,7 +73,7 @@ const themeLight = createMuiTheme({
 const AxisBtn: React.FC<Props> = (props: Props) => {
   const {
     themeToggle,
-    theme,
+    localTheme,
     endIcon,
     endIconTheme,
     height,
@@ -90,8 +90,8 @@ const AxisBtn: React.FC<Props> = (props: Props) => {
   const [themeState, setThemeState] = React.useState(false);
 
   React.useEffect(() => {
-    setThemeState(props.theme);
-  }, [props.theme]);
+    setThemeState(props.localTheme);
+  }, [props.localTheme]);
 
   const StartIcon =
     startIcon === '' ? undefined : (
@@ -139,7 +139,7 @@ addPropertyControls(AxisButton, {
     enabledTitle: 'Show',
     disabledTitle: 'Hide',
   },
-  theme: {
+  localTheme: {
     title: 'Dark theme',
     type: ControlType.Boolean,
     hidden(props) {
