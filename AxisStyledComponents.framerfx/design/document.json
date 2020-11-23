@@ -1,0 +1,1784 @@
+{
+  "root" : {
+    "__class" : "RootNode",
+    "children" : [
+      {
+        "__class" : "PageNode",
+        "children" : [
+          {
+            "__class" : "FrameNode",
+            "aspectRatio" : null,
+            "bottom" : null,
+            "centerAnchorX" : 0,
+            "centerAnchorY" : 0,
+            "children" : [
+              {
+                "__class" : "CodeComponentNode",
+                "$control__theme" : {
+                  "type" : "enum",
+                  "value" : "themeDark"
+                },
+                "aspectRatio" : null,
+                "bottom" : null,
+                "centerAnchorX" : 0.29632063074901444,
+                "centerAnchorY" : 0.16287878787878787,
+                "clip" : true,
+                "codeComponentIdentifier" : ".\/themeSwitcher.tsx_AxisThemes",
+                "codeComponentPackageVersion" : "1.77.0",
+                "codeOverrideEnabled" : false,
+                "constraintsLocked" : false,
+                "duplicatedFrom" : [
+                  "GO5kNYArm"
+                ],
+                "exportOptions" : [
+
+                ],
+                "fillColor" : "rgba(255,255,255,1)",
+                "fillEnabled" : false,
+                "fillImage" : null,
+                "fillImageOriginalName" : null,
+                "fillImagePixelHeight" : null,
+                "fillImagePixelWidth" : null,
+                "fillImageResize" : "fill",
+                "fillType" : "color",
+                "height" : 40,
+                "heightType" : 0,
+                "id" : "UTUD06sqN",
+                "intrinsicHeight" : 25,
+                "intrinsicWidth" : 110,
+                "left" : 100,
+                "locked" : false,
+                "name" : null,
+                "opacity" : 1,
+                "originalid" : null,
+                "parentid" : "rJczOWLVL",
+                "previewSettings" : null,
+                "radius" : 0,
+                "radiusBottomLeft" : 0,
+                "radiusBottomRight" : 0,
+                "radiusIsRelative" : false,
+                "radiusPerCorner" : false,
+                "radiusTopLeft" : 0,
+                "radiusTopRight" : 0,
+                "right" : null,
+                "rotation" : 0,
+                "top" : 23,
+                "visible" : true,
+                "width" : 251,
+                "widthType" : 0
+              },
+              {
+                "__class" : "FrameNode",
+                "aspectRatio" : null,
+                "bottom" : 11,
+                "centerAnchorX" : 0.3147174770039422,
+                "centerAnchorY" : 0.64393939393939392,
+                "children" : [
+                  {
+                    "__class" : "FrameNode",
+                    "aspectRatio" : null,
+                    "bottom" : -87,
+                    "centerAnchorX" : 0.98999999999999999,
+                    "centerAnchorY" : 1.0240963855421688,
+                    "children" : [
+                      {
+                        "__class" : "CodeComponentNode",
+                        "$control__color" : {
+                          "type" : "enum",
+                          "value" : "default"
+                        },
+                        "$control__disabled" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__disableElevation" : {
+                          "type" : "boolean",
+                          "value" : true
+                        },
+                        "$control__endIcon" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__fullWidth" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__href" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__icon" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__iconColor" : {
+                          "type" : "enum",
+                          "value" : "inherit"
+                        },
+                        "$control__iconSize" : {
+                          "type" : "number",
+                          "value" : 24
+                        },
+                        "$control__iconTheme" : {
+                          "type" : "enum",
+                          "value" : "Filled"
+                        },
+                        "$control__label" : {
+                          "type" : "string",
+                          "value" : "Button"
+                        },
+                        "$control__localTheme" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__onClick" : {
+                          "type" : "eventhandler"
+                        },
+                        "$control__size" : {
+                          "type" : "enum",
+                          "value" : "medium"
+                        },
+                        "$control__startIcon" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__themeToggle" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__variant" : {
+                          "type" : "enum",
+                          "value" : "contained"
+                        },
+                        "aspectRatio" : null,
+                        "bottom" : -87,
+                        "centerAnchorX" : 0.98999999999999999,
+                        "centerAnchorY" : 2.7894736842105261,
+                        "clip" : true,
+                        "codeComponentIdentifier" : ".\/AxisBtn.tsx_AxisButton",
+                        "codeComponentPackageVersion" : "1.77.0",
+                        "codeOverrideEnabled" : false,
+                        "constraintsLocked" : false,
+                        "duplicatedFrom" : [
+                          "mFDjUcyl_"
+                        ],
+                        "exportOptions" : [
+
+                        ],
+                        "fillColor" : "rgba(255,255,255,1)",
+                        "fillEnabled" : false,
+                        "fillImage" : null,
+                        "fillImageOriginalName" : null,
+                        "fillImagePixelHeight" : null,
+                        "fillImagePixelWidth" : null,
+                        "fillImageResize" : "fill",
+                        "fillType" : "color",
+                        "height" : 1,
+                        "heightType" : 3,
+                        "id" : "LLDTdxeUL",
+                        "intrinsicHeight" : 38,
+                        "intrinsicWidth" : 100,
+                        "left" : null,
+                        "locked" : false,
+                        "name" : null,
+                        "opacity" : 1,
+                        "originalid" : null,
+                        "parentid" : "JuCRKFD4e",
+                        "previewSettings" : null,
+                        "radius" : 0,
+                        "radiusBottomLeft" : 0,
+                        "radiusBottomRight" : 0,
+                        "radiusIsRelative" : false,
+                        "radiusPerCorner" : false,
+                        "radiusTopLeft" : 0,
+                        "radiusTopRight" : 0,
+                        "right" : -49,
+                        "rotation" : 0,
+                        "top" : null,
+                        "visible" : true,
+                        "width" : 100,
+                        "widthType" : 0
+                      },
+                      {
+                        "__class" : "CodeComponentNode",
+                        "$control__color" : {
+                          "type" : "enum",
+                          "value" : "primary"
+                        },
+                        "$control__disabled" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__disableElevation" : {
+                          "type" : "boolean",
+                          "value" : true
+                        },
+                        "$control__endIcon" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__fullWidth" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__href" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__icon" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__iconColor" : {
+                          "type" : "enum",
+                          "value" : "inherit"
+                        },
+                        "$control__iconSize" : {
+                          "type" : "number",
+                          "value" : 24
+                        },
+                        "$control__iconTheme" : {
+                          "type" : "enum",
+                          "value" : "Filled"
+                        },
+                        "$control__label" : {
+                          "type" : "string",
+                          "value" : "Button"
+                        },
+                        "$control__localTheme" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__onClick" : {
+                          "type" : "eventhandler"
+                        },
+                        "$control__size" : {
+                          "type" : "enum",
+                          "value" : "medium"
+                        },
+                        "$control__startIcon" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__themeToggle" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__variant" : {
+                          "type" : "enum",
+                          "value" : "contained"
+                        },
+                        "aspectRatio" : null,
+                        "bottom" : -87,
+                        "centerAnchorX" : 0.98999999999999999,
+                        "centerAnchorY" : 2.7894736842105261,
+                        "clip" : true,
+                        "codeComponentIdentifier" : ".\/AxisBtn.tsx_AxisButton",
+                        "codeComponentPackageVersion" : "1.77.0",
+                        "codeOverrideEnabled" : false,
+                        "constraintsLocked" : false,
+                        "duplicatedFrom" : [
+                          "mFDjUcyl_",
+                          "LLDTdxeUL"
+                        ],
+                        "exportOptions" : [
+
+                        ],
+                        "fillColor" : "rgba(255,255,255,1)",
+                        "fillEnabled" : false,
+                        "fillImage" : null,
+                        "fillImageOriginalName" : null,
+                        "fillImagePixelHeight" : null,
+                        "fillImagePixelWidth" : null,
+                        "fillImageResize" : "fill",
+                        "fillType" : "color",
+                        "height" : 1,
+                        "heightType" : 3,
+                        "id" : "D4Lh2oFaL",
+                        "intrinsicHeight" : 38,
+                        "intrinsicWidth" : 100,
+                        "left" : null,
+                        "locked" : false,
+                        "name" : null,
+                        "opacity" : 1,
+                        "originalid" : null,
+                        "parentid" : "JuCRKFD4e",
+                        "previewSettings" : null,
+                        "radius" : 0,
+                        "radiusBottomLeft" : 0,
+                        "radiusBottomRight" : 0,
+                        "radiusIsRelative" : false,
+                        "radiusPerCorner" : false,
+                        "radiusTopLeft" : 0,
+                        "radiusTopRight" : 0,
+                        "right" : -49,
+                        "rotation" : 0,
+                        "top" : null,
+                        "visible" : true,
+                        "width" : 100,
+                        "widthType" : 0
+                      },
+                      {
+                        "__class" : "CodeComponentNode",
+                        "$control__color" : {
+                          "type" : "enum",
+                          "value" : "secondary"
+                        },
+                        "$control__disabled" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__disableElevation" : {
+                          "type" : "boolean",
+                          "value" : true
+                        },
+                        "$control__endIcon" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__fullWidth" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__href" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__icon" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__iconColor" : {
+                          "type" : "enum",
+                          "value" : "inherit"
+                        },
+                        "$control__iconSize" : {
+                          "type" : "number",
+                          "value" : 24
+                        },
+                        "$control__iconTheme" : {
+                          "type" : "enum",
+                          "value" : "Filled"
+                        },
+                        "$control__label" : {
+                          "type" : "string",
+                          "value" : "Button"
+                        },
+                        "$control__localTheme" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__onClick" : {
+                          "type" : "eventhandler"
+                        },
+                        "$control__size" : {
+                          "type" : "enum",
+                          "value" : "medium"
+                        },
+                        "$control__startIcon" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__themeToggle" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__variant" : {
+                          "type" : "enum",
+                          "value" : "contained"
+                        },
+                        "aspectRatio" : null,
+                        "bottom" : -87,
+                        "centerAnchorX" : 0.98999999999999999,
+                        "centerAnchorY" : 2.7894736842105261,
+                        "clip" : true,
+                        "codeComponentIdentifier" : ".\/AxisBtn.tsx_AxisButton",
+                        "codeComponentPackageVersion" : "1.77.0",
+                        "codeOverrideEnabled" : false,
+                        "constraintsLocked" : false,
+                        "duplicatedFrom" : [
+                          "mFDjUcyl_",
+                          "LLDTdxeUL",
+                          "D4Lh2oFaL"
+                        ],
+                        "exportOptions" : [
+
+                        ],
+                        "fillColor" : "rgba(255,255,255,1)",
+                        "fillEnabled" : false,
+                        "fillImage" : null,
+                        "fillImageOriginalName" : null,
+                        "fillImagePixelHeight" : null,
+                        "fillImagePixelWidth" : null,
+                        "fillImageResize" : "fill",
+                        "fillType" : "color",
+                        "height" : 1,
+                        "heightType" : 3,
+                        "id" : "iE8mXn0qC",
+                        "intrinsicHeight" : 38,
+                        "intrinsicWidth" : 100,
+                        "left" : null,
+                        "locked" : false,
+                        "name" : null,
+                        "opacity" : 1,
+                        "originalid" : null,
+                        "parentid" : "JuCRKFD4e",
+                        "previewSettings" : null,
+                        "radius" : 0,
+                        "radiusBottomLeft" : 0,
+                        "radiusBottomRight" : 0,
+                        "radiusIsRelative" : false,
+                        "radiusPerCorner" : false,
+                        "radiusTopLeft" : 0,
+                        "radiusTopRight" : 0,
+                        "right" : -49,
+                        "rotation" : 0,
+                        "top" : null,
+                        "visible" : true,
+                        "width" : 100,
+                        "widthType" : 0
+                      }
+                    ],
+                    "clip" : false,
+                    "codeOverrideEnabled" : false,
+                    "constraintsLocked" : false,
+                    "duplicatedFrom" : null,
+                    "exportOptions" : [
+
+                    ],
+                    "fillColor" : "rgba(255,255,255,1)",
+                    "fillEnabled" : false,
+                    "fillImage" : null,
+                    "fillImageOriginalName" : null,
+                    "fillImagePixelHeight" : null,
+                    "fillImagePixelWidth" : null,
+                    "fillImageResize" : "fill",
+                    "fillType" : "color",
+                    "framePreset" : null,
+                    "guidesX" : [
+
+                    ],
+                    "guidesY" : [
+
+                    ],
+                    "height" : 166,
+                    "heightType" : 0,
+                    "id" : "JuCRKFD4e",
+                    "intrinsicHeight" : null,
+                    "intrinsicWidth" : null,
+                    "isExternalMaster" : null,
+                    "isMaster" : false,
+                    "isTarget" : false,
+                    "left" : null,
+                    "locked" : false,
+                    "name" : null,
+                    "opacity" : 1,
+                    "originalid" : null,
+                    "padding" : 0,
+                    "paddingBottom" : 0,
+                    "paddingLeft" : 0,
+                    "paddingPerSide" : false,
+                    "paddingRight" : 0,
+                    "paddingTop" : 0,
+                    "parentid" : "gdEUTUl4l",
+                    "previewSettings" : null,
+                    "radius" : 0,
+                    "radiusBottomLeft" : 0,
+                    "radiusBottomRight" : 0,
+                    "radiusIsRelative" : false,
+                    "radiusPerCorner" : false,
+                    "radiusTopLeft" : 0,
+                    "radiusTopRight" : 0,
+                    "replicaInfo" : null,
+                    "right" : -49,
+                    "rotation" : 0,
+                    "stackAlignment" : "start",
+                    "stackDirection" : "vertical",
+                    "stackDistribution" : "center",
+                    "stackEnabled" : true,
+                    "stackGap" : 10,
+                    "top" : null,
+                    "visible" : true,
+                    "width" : 1,
+                    "widthType" : 3
+                  },
+                  {
+                    "__class" : "FrameNode",
+                    "aspectRatio" : null,
+                    "bottom" : null,
+                    "centerAnchorX" : 0.98999999999999999,
+                    "centerAnchorY" : 1.0240963855421688,
+                    "children" : [
+                      {
+                        "__class" : "CodeComponentNode",
+                        "$control__color" : {
+                          "type" : "enum",
+                          "value" : "default"
+                        },
+                        "$control__disabled" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__disableElevation" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__endIcon" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__fullWidth" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__href" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__icon" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__iconColor" : {
+                          "type" : "enum",
+                          "value" : "inherit"
+                        },
+                        "$control__iconSize" : {
+                          "type" : "number",
+                          "value" : 24
+                        },
+                        "$control__iconTheme" : {
+                          "type" : "enum",
+                          "value" : "Filled"
+                        },
+                        "$control__label" : {
+                          "type" : "string",
+                          "value" : "Button"
+                        },
+                        "$control__localTheme" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__onClick" : {
+                          "type" : "eventhandler"
+                        },
+                        "$control__size" : {
+                          "type" : "enum",
+                          "value" : "medium"
+                        },
+                        "$control__startIcon" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__themeToggle" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__variant" : {
+                          "type" : "enum",
+                          "value" : "outlined"
+                        },
+                        "aspectRatio" : null,
+                        "bottom" : -87,
+                        "centerAnchorX" : 0.98999999999999999,
+                        "centerAnchorY" : 2.7894736842105261,
+                        "clip" : true,
+                        "codeComponentIdentifier" : ".\/AxisBtn.tsx_AxisButton",
+                        "codeComponentPackageVersion" : "1.77.0",
+                        "codeOverrideEnabled" : false,
+                        "constraintsLocked" : false,
+                        "duplicatedFrom" : [
+                          "mFDjUcyl_",
+                          "LLDTdxeUL"
+                        ],
+                        "exportOptions" : [
+
+                        ],
+                        "fillColor" : "rgba(255,255,255,1)",
+                        "fillEnabled" : false,
+                        "fillImage" : null,
+                        "fillImageOriginalName" : null,
+                        "fillImagePixelHeight" : null,
+                        "fillImagePixelWidth" : null,
+                        "fillImageResize" : "fill",
+                        "fillType" : "color",
+                        "height" : 1,
+                        "heightType" : 3,
+                        "id" : "Gh8qsjQRI",
+                        "intrinsicHeight" : 38,
+                        "intrinsicWidth" : 100,
+                        "left" : null,
+                        "locked" : false,
+                        "name" : null,
+                        "opacity" : 1,
+                        "originalid" : null,
+                        "parentid" : "dyoEp6aod",
+                        "previewSettings" : null,
+                        "radius" : 0,
+                        "radiusBottomLeft" : 0,
+                        "radiusBottomRight" : 0,
+                        "radiusIsRelative" : false,
+                        "radiusPerCorner" : false,
+                        "radiusTopLeft" : 0,
+                        "radiusTopRight" : 0,
+                        "right" : -49,
+                        "rotation" : 0,
+                        "top" : null,
+                        "visible" : true,
+                        "width" : 100,
+                        "widthType" : 0
+                      },
+                      {
+                        "__class" : "CodeComponentNode",
+                        "$control__color" : {
+                          "type" : "enum",
+                          "value" : "primary"
+                        },
+                        "$control__disabled" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__disableElevation" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__endIcon" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__fullWidth" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__href" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__icon" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__iconColor" : {
+                          "type" : "enum",
+                          "value" : "inherit"
+                        },
+                        "$control__iconSize" : {
+                          "type" : "number",
+                          "value" : 24
+                        },
+                        "$control__iconTheme" : {
+                          "type" : "enum",
+                          "value" : "Filled"
+                        },
+                        "$control__label" : {
+                          "type" : "string",
+                          "value" : "Button"
+                        },
+                        "$control__localTheme" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__onClick" : {
+                          "type" : "eventhandler"
+                        },
+                        "$control__size" : {
+                          "type" : "enum",
+                          "value" : "medium"
+                        },
+                        "$control__startIcon" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__themeToggle" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__variant" : {
+                          "type" : "enum",
+                          "value" : "outlined"
+                        },
+                        "aspectRatio" : null,
+                        "bottom" : -87,
+                        "centerAnchorX" : 0.98999999999999999,
+                        "centerAnchorY" : 2.7894736842105261,
+                        "clip" : true,
+                        "codeComponentIdentifier" : ".\/AxisBtn.tsx_AxisButton",
+                        "codeComponentPackageVersion" : "1.77.0",
+                        "codeOverrideEnabled" : false,
+                        "constraintsLocked" : false,
+                        "duplicatedFrom" : [
+                          "mFDjUcyl_",
+                          "LLDTdxeUL",
+                          "D4Lh2oFaL"
+                        ],
+                        "exportOptions" : [
+
+                        ],
+                        "fillColor" : "rgba(255,255,255,1)",
+                        "fillEnabled" : false,
+                        "fillImage" : null,
+                        "fillImageOriginalName" : null,
+                        "fillImagePixelHeight" : null,
+                        "fillImagePixelWidth" : null,
+                        "fillImageResize" : "fill",
+                        "fillType" : "color",
+                        "height" : 1,
+                        "heightType" : 3,
+                        "id" : "r1XVDKbd8",
+                        "intrinsicHeight" : 38,
+                        "intrinsicWidth" : 100,
+                        "left" : null,
+                        "locked" : false,
+                        "name" : null,
+                        "opacity" : 1,
+                        "originalid" : null,
+                        "parentid" : "dyoEp6aod",
+                        "previewSettings" : null,
+                        "radius" : 0,
+                        "radiusBottomLeft" : 0,
+                        "radiusBottomRight" : 0,
+                        "radiusIsRelative" : false,
+                        "radiusPerCorner" : false,
+                        "radiusTopLeft" : 0,
+                        "radiusTopRight" : 0,
+                        "right" : -49,
+                        "rotation" : 0,
+                        "top" : null,
+                        "visible" : true,
+                        "width" : 100,
+                        "widthType" : 0
+                      },
+                      {
+                        "__class" : "CodeComponentNode",
+                        "$control__color" : {
+                          "type" : "enum",
+                          "value" : "secondary"
+                        },
+                        "$control__disabled" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__disableElevation" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__endIcon" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__fullWidth" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__href" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__icon" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__iconColor" : {
+                          "type" : "enum",
+                          "value" : "inherit"
+                        },
+                        "$control__iconSize" : {
+                          "type" : "number",
+                          "value" : 24
+                        },
+                        "$control__iconTheme" : {
+                          "type" : "enum",
+                          "value" : "Filled"
+                        },
+                        "$control__label" : {
+                          "type" : "string",
+                          "value" : "Button"
+                        },
+                        "$control__localTheme" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__onClick" : {
+                          "type" : "eventhandler"
+                        },
+                        "$control__size" : {
+                          "type" : "enum",
+                          "value" : "medium"
+                        },
+                        "$control__startIcon" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__themeToggle" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__variant" : {
+                          "type" : "enum",
+                          "value" : "outlined"
+                        },
+                        "aspectRatio" : null,
+                        "bottom" : -87,
+                        "centerAnchorX" : 0.98999999999999999,
+                        "centerAnchorY" : 2.7894736842105261,
+                        "clip" : true,
+                        "codeComponentIdentifier" : ".\/AxisBtn.tsx_AxisButton",
+                        "codeComponentPackageVersion" : "1.77.0",
+                        "codeOverrideEnabled" : false,
+                        "constraintsLocked" : false,
+                        "duplicatedFrom" : [
+                          "mFDjUcyl_",
+                          "LLDTdxeUL",
+                          "D4Lh2oFaL",
+                          "iE8mXn0qC"
+                        ],
+                        "exportOptions" : [
+
+                        ],
+                        "fillColor" : "rgba(255,255,255,1)",
+                        "fillEnabled" : false,
+                        "fillImage" : null,
+                        "fillImageOriginalName" : null,
+                        "fillImagePixelHeight" : null,
+                        "fillImagePixelWidth" : null,
+                        "fillImageResize" : "fill",
+                        "fillType" : "color",
+                        "height" : 1,
+                        "heightType" : 3,
+                        "id" : "D6pSb1_Pn",
+                        "intrinsicHeight" : 38,
+                        "intrinsicWidth" : 100,
+                        "left" : null,
+                        "locked" : false,
+                        "name" : null,
+                        "opacity" : 1,
+                        "originalid" : null,
+                        "parentid" : "dyoEp6aod",
+                        "previewSettings" : null,
+                        "radius" : 0,
+                        "radiusBottomLeft" : 0,
+                        "radiusBottomRight" : 0,
+                        "radiusIsRelative" : false,
+                        "radiusPerCorner" : false,
+                        "radiusTopLeft" : 0,
+                        "radiusTopRight" : 0,
+                        "right" : -49,
+                        "rotation" : 0,
+                        "top" : null,
+                        "visible" : true,
+                        "width" : 100,
+                        "widthType" : 0
+                      }
+                    ],
+                    "clip" : false,
+                    "codeOverrideEnabled" : false,
+                    "constraintsLocked" : false,
+                    "duplicatedFrom" : [
+                      "JuCRKFD4e"
+                    ],
+                    "exportOptions" : [
+
+                    ],
+                    "fillColor" : "rgba(255,255,255,1)",
+                    "fillEnabled" : false,
+                    "fillImage" : null,
+                    "fillImageOriginalName" : null,
+                    "fillImagePixelHeight" : null,
+                    "fillImagePixelWidth" : null,
+                    "fillImageResize" : "fill",
+                    "fillType" : "color",
+                    "framePreset" : null,
+                    "guidesX" : [
+
+                    ],
+                    "guidesY" : [
+
+                    ],
+                    "height" : 166,
+                    "heightType" : 0,
+                    "id" : "dyoEp6aod",
+                    "intrinsicHeight" : null,
+                    "intrinsicWidth" : null,
+                    "isExternalMaster" : null,
+                    "isMaster" : false,
+                    "isTarget" : false,
+                    "left" : 0,
+                    "locked" : false,
+                    "name" : null,
+                    "opacity" : 1,
+                    "originalid" : null,
+                    "padding" : 0,
+                    "paddingBottom" : 0,
+                    "paddingLeft" : 0,
+                    "paddingPerSide" : false,
+                    "paddingRight" : 0,
+                    "paddingTop" : 0,
+                    "parentid" : "gdEUTUl4l",
+                    "previewSettings" : null,
+                    "radius" : 0,
+                    "radiusBottomLeft" : 0,
+                    "radiusBottomRight" : 0,
+                    "radiusIsRelative" : false,
+                    "radiusPerCorner" : false,
+                    "radiusTopLeft" : 0,
+                    "radiusTopRight" : 0,
+                    "replicaInfo" : null,
+                    "right" : null,
+                    "rotation" : 0,
+                    "stackAlignment" : "start",
+                    "stackDirection" : "vertical",
+                    "stackDistribution" : "center",
+                    "stackEnabled" : true,
+                    "stackGap" : 10,
+                    "top" : 0,
+                    "visible" : true,
+                    "width" : 1,
+                    "widthType" : 3
+                  },
+                  {
+                    "__class" : "FrameNode",
+                    "aspectRatio" : null,
+                    "bottom" : -87,
+                    "centerAnchorX" : 0.98999999999999999,
+                    "centerAnchorY" : 1.0240963855421688,
+                    "children" : [
+                      {
+                        "__class" : "CodeComponentNode",
+                        "$control__color" : {
+                          "type" : "enum",
+                          "value" : "default"
+                        },
+                        "$control__disabled" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__disableElevation" : {
+                          "type" : "boolean",
+                          "value" : true
+                        },
+                        "$control__endIcon" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__fullWidth" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__href" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__icon" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__iconColor" : {
+                          "type" : "enum",
+                          "value" : "inherit"
+                        },
+                        "$control__iconSize" : {
+                          "type" : "number",
+                          "value" : 24
+                        },
+                        "$control__iconTheme" : {
+                          "type" : "enum",
+                          "value" : "Filled"
+                        },
+                        "$control__label" : {
+                          "type" : "string",
+                          "value" : "Button"
+                        },
+                        "$control__localTheme" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__onClick" : {
+                          "type" : "eventhandler"
+                        },
+                        "$control__size" : {
+                          "type" : "enum",
+                          "value" : "medium"
+                        },
+                        "$control__startIcon" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__themeToggle" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__variant" : {
+                          "type" : "enum",
+                          "value" : "text"
+                        },
+                        "aspectRatio" : null,
+                        "bottom" : -87,
+                        "centerAnchorX" : 0.98999999999999999,
+                        "centerAnchorY" : 2.7894736842105261,
+                        "clip" : true,
+                        "codeComponentIdentifier" : ".\/AxisBtn.tsx_AxisButton",
+                        "codeComponentPackageVersion" : "1.77.0",
+                        "codeOverrideEnabled" : false,
+                        "constraintsLocked" : false,
+                        "duplicatedFrom" : [
+                          "mFDjUcyl_",
+                          "LLDTdxeUL",
+                          "Gh8qsjQRI"
+                        ],
+                        "exportOptions" : [
+
+                        ],
+                        "fillColor" : "rgba(255,255,255,1)",
+                        "fillEnabled" : false,
+                        "fillImage" : null,
+                        "fillImageOriginalName" : null,
+                        "fillImagePixelHeight" : null,
+                        "fillImagePixelWidth" : null,
+                        "fillImageResize" : "fill",
+                        "fillType" : "color",
+                        "height" : 1,
+                        "heightType" : 3,
+                        "id" : "WGbeRhne4",
+                        "intrinsicHeight" : 38,
+                        "intrinsicWidth" : 100,
+                        "left" : null,
+                        "locked" : false,
+                        "name" : null,
+                        "opacity" : 1,
+                        "originalid" : null,
+                        "parentid" : "lU69URjl7",
+                        "previewSettings" : null,
+                        "radius" : 0,
+                        "radiusBottomLeft" : 0,
+                        "radiusBottomRight" : 0,
+                        "radiusIsRelative" : false,
+                        "radiusPerCorner" : false,
+                        "radiusTopLeft" : 0,
+                        "radiusTopRight" : 0,
+                        "right" : -49,
+                        "rotation" : 0,
+                        "top" : null,
+                        "visible" : true,
+                        "width" : 100,
+                        "widthType" : 0
+                      },
+                      {
+                        "__class" : "CodeComponentNode",
+                        "$control__color" : {
+                          "type" : "enum",
+                          "value" : "primary"
+                        },
+                        "$control__disabled" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__disableElevation" : {
+                          "type" : "boolean",
+                          "value" : true
+                        },
+                        "$control__endIcon" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__fullWidth" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__href" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__icon" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__iconColor" : {
+                          "type" : "enum",
+                          "value" : "inherit"
+                        },
+                        "$control__iconSize" : {
+                          "type" : "number",
+                          "value" : 24
+                        },
+                        "$control__iconTheme" : {
+                          "type" : "enum",
+                          "value" : "Filled"
+                        },
+                        "$control__label" : {
+                          "type" : "string",
+                          "value" : "Button"
+                        },
+                        "$control__localTheme" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__onClick" : {
+                          "type" : "eventhandler"
+                        },
+                        "$control__size" : {
+                          "type" : "enum",
+                          "value" : "medium"
+                        },
+                        "$control__startIcon" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__themeToggle" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__variant" : {
+                          "type" : "enum",
+                          "value" : "text"
+                        },
+                        "aspectRatio" : null,
+                        "bottom" : -87,
+                        "centerAnchorX" : 0.98999999999999999,
+                        "centerAnchorY" : 2.7894736842105261,
+                        "clip" : true,
+                        "codeComponentIdentifier" : ".\/AxisBtn.tsx_AxisButton",
+                        "codeComponentPackageVersion" : "1.77.0",
+                        "codeOverrideEnabled" : false,
+                        "constraintsLocked" : false,
+                        "duplicatedFrom" : [
+                          "mFDjUcyl_",
+                          "LLDTdxeUL",
+                          "D4Lh2oFaL",
+                          "r1XVDKbd8"
+                        ],
+                        "exportOptions" : [
+
+                        ],
+                        "fillColor" : "rgba(255,255,255,1)",
+                        "fillEnabled" : false,
+                        "fillImage" : null,
+                        "fillImageOriginalName" : null,
+                        "fillImagePixelHeight" : null,
+                        "fillImagePixelWidth" : null,
+                        "fillImageResize" : "fill",
+                        "fillType" : "color",
+                        "height" : 1,
+                        "heightType" : 3,
+                        "id" : "seL8MCb6e",
+                        "intrinsicHeight" : 38,
+                        "intrinsicWidth" : 100,
+                        "left" : null,
+                        "locked" : false,
+                        "name" : null,
+                        "opacity" : 1,
+                        "originalid" : null,
+                        "parentid" : "lU69URjl7",
+                        "previewSettings" : null,
+                        "radius" : 0,
+                        "radiusBottomLeft" : 0,
+                        "radiusBottomRight" : 0,
+                        "radiusIsRelative" : false,
+                        "radiusPerCorner" : false,
+                        "radiusTopLeft" : 0,
+                        "radiusTopRight" : 0,
+                        "right" : -49,
+                        "rotation" : 0,
+                        "top" : null,
+                        "visible" : true,
+                        "width" : 100,
+                        "widthType" : 0
+                      },
+                      {
+                        "__class" : "CodeComponentNode",
+                        "$control__color" : {
+                          "type" : "enum",
+                          "value" : "secondary"
+                        },
+                        "$control__disabled" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__disableElevation" : {
+                          "type" : "boolean",
+                          "value" : true
+                        },
+                        "$control__endIcon" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__fullWidth" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__href" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__icon" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__iconColor" : {
+                          "type" : "enum",
+                          "value" : "inherit"
+                        },
+                        "$control__iconSize" : {
+                          "type" : "number",
+                          "value" : 24
+                        },
+                        "$control__iconTheme" : {
+                          "type" : "enum",
+                          "value" : "Filled"
+                        },
+                        "$control__label" : {
+                          "type" : "string",
+                          "value" : "Button"
+                        },
+                        "$control__localTheme" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__onClick" : {
+                          "type" : "eventhandler"
+                        },
+                        "$control__size" : {
+                          "type" : "enum",
+                          "value" : "medium"
+                        },
+                        "$control__startIcon" : {
+                          "type" : "string",
+                          "value" : ""
+                        },
+                        "$control__themeToggle" : {
+                          "type" : "boolean",
+                          "value" : false
+                        },
+                        "$control__variant" : {
+                          "type" : "enum",
+                          "value" : "text"
+                        },
+                        "aspectRatio" : null,
+                        "bottom" : -87,
+                        "centerAnchorX" : 0.98999999999999999,
+                        "centerAnchorY" : 2.7894736842105261,
+                        "clip" : true,
+                        "codeComponentIdentifier" : ".\/AxisBtn.tsx_AxisButton",
+                        "codeComponentPackageVersion" : "1.77.0",
+                        "codeOverrideEnabled" : false,
+                        "constraintsLocked" : false,
+                        "duplicatedFrom" : [
+                          "mFDjUcyl_",
+                          "LLDTdxeUL",
+                          "D4Lh2oFaL",
+                          "iE8mXn0qC",
+                          "D6pSb1_Pn"
+                        ],
+                        "exportOptions" : [
+
+                        ],
+                        "fillColor" : "rgba(255,255,255,1)",
+                        "fillEnabled" : false,
+                        "fillImage" : null,
+                        "fillImageOriginalName" : null,
+                        "fillImagePixelHeight" : null,
+                        "fillImagePixelWidth" : null,
+                        "fillImageResize" : "fill",
+                        "fillType" : "color",
+                        "height" : 1,
+                        "heightType" : 3,
+                        "id" : "WixPMEedh",
+                        "intrinsicHeight" : 38,
+                        "intrinsicWidth" : 100,
+                        "left" : null,
+                        "locked" : false,
+                        "name" : null,
+                        "opacity" : 1,
+                        "originalid" : null,
+                        "parentid" : "lU69URjl7",
+                        "previewSettings" : null,
+                        "radius" : 0,
+                        "radiusBottomLeft" : 0,
+                        "radiusBottomRight" : 0,
+                        "radiusIsRelative" : false,
+                        "radiusPerCorner" : false,
+                        "radiusTopLeft" : 0,
+                        "radiusTopRight" : 0,
+                        "right" : -49,
+                        "rotation" : 0,
+                        "top" : null,
+                        "visible" : true,
+                        "width" : 100,
+                        "widthType" : 0
+                      }
+                    ],
+                    "clip" : false,
+                    "codeOverrideEnabled" : false,
+                    "constraintsLocked" : false,
+                    "duplicatedFrom" : [
+                      "JuCRKFD4e",
+                      "dyoEp6aod"
+                    ],
+                    "exportOptions" : [
+
+                    ],
+                    "fillColor" : "rgba(255,255,255,1)",
+                    "fillEnabled" : false,
+                    "fillImage" : null,
+                    "fillImageOriginalName" : null,
+                    "fillImagePixelHeight" : null,
+                    "fillImagePixelWidth" : null,
+                    "fillImageResize" : "fill",
+                    "fillType" : "color",
+                    "framePreset" : null,
+                    "guidesX" : [
+
+                    ],
+                    "guidesY" : [
+
+                    ],
+                    "height" : 166,
+                    "heightType" : 0,
+                    "id" : "lU69URjl7",
+                    "intrinsicHeight" : null,
+                    "intrinsicWidth" : null,
+                    "isExternalMaster" : null,
+                    "isMaster" : false,
+                    "isTarget" : false,
+                    "left" : null,
+                    "locked" : false,
+                    "name" : null,
+                    "opacity" : 1,
+                    "originalid" : null,
+                    "padding" : 0,
+                    "paddingBottom" : 0,
+                    "paddingLeft" : 0,
+                    "paddingPerSide" : false,
+                    "paddingRight" : 0,
+                    "paddingTop" : 0,
+                    "parentid" : "gdEUTUl4l",
+                    "previewSettings" : null,
+                    "radius" : 0,
+                    "radiusBottomLeft" : 0,
+                    "radiusBottomRight" : 0,
+                    "radiusIsRelative" : false,
+                    "radiusPerCorner" : false,
+                    "radiusTopLeft" : 0,
+                    "radiusTopRight" : 0,
+                    "replicaInfo" : null,
+                    "right" : -49,
+                    "rotation" : 0,
+                    "stackAlignment" : "start",
+                    "stackDirection" : "vertical",
+                    "stackDistribution" : "center",
+                    "stackEnabled" : true,
+                    "stackGap" : 10,
+                    "top" : null,
+                    "visible" : true,
+                    "width" : 1,
+                    "widthType" : 3
+                  }
+                ],
+                "clip" : false,
+                "codeOverrideEnabled" : false,
+                "constraintsLocked" : false,
+                "duplicatedFrom" : null,
+                "exportOptions" : [
+
+                ],
+                "fillColor" : "rgba(255,255,255,1)",
+                "fillEnabled" : false,
+                "fillImage" : null,
+                "fillImageOriginalName" : null,
+                "fillImagePixelHeight" : null,
+                "fillImagePixelWidth" : null,
+                "fillImageResize" : "fill",
+                "fillType" : "color",
+                "framePreset" : null,
+                "guidesX" : [
+
+                ],
+                "guidesY" : [
+
+                ],
+                "height" : 166,
+                "heightType" : 0,
+                "id" : "gdEUTUl4l",
+                "intrinsicHeight" : null,
+                "intrinsicWidth" : null,
+                "isExternalMaster" : null,
+                "isMaster" : false,
+                "isTarget" : false,
+                "left" : 49,
+                "locked" : false,
+                "name" : null,
+                "opacity" : 1,
+                "originalid" : null,
+                "padding" : 0,
+                "paddingBottom" : 0,
+                "paddingLeft" : 0,
+                "paddingPerSide" : false,
+                "paddingRight" : 0,
+                "paddingTop" : 0,
+                "parentid" : "rJczOWLVL",
+                "previewSettings" : null,
+                "radius" : 0,
+                "radiusBottomLeft" : 0,
+                "radiusBottomRight" : 0,
+                "radiusIsRelative" : false,
+                "radiusPerCorner" : false,
+                "radiusTopLeft" : 0,
+                "radiusTopRight" : 0,
+                "replicaInfo" : null,
+                "right" : null,
+                "rotation" : 0,
+                "stackAlignment" : "start",
+                "stackDirection" : "horizontal",
+                "stackDistribution" : "start",
+                "stackEnabled" : true,
+                "stackGap" : 0,
+                "top" : null,
+                "visible" : true,
+                "width" : 381,
+                "widthType" : 0
+              }
+            ],
+            "clip" : true,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "duplicatedFrom" : null,
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "white",
+            "fillEnabled" : false,
+            "fillImage" : null,
+            "fillImageOriginalName" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "framePreset" : null,
+            "guidesX" : [
+
+            ],
+            "guidesY" : [
+
+            ],
+            "height" : 264,
+            "heightType" : 0,
+            "id" : "rJczOWLVL",
+            "intrinsicHeight" : null,
+            "intrinsicWidth" : null,
+            "isExternalMaster" : null,
+            "isMaster" : false,
+            "isTarget" : false,
+            "left" : 0,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "Bzk8RDXTo",
+            "previewSettings" : {
+              "__class" : "PreviewSettings",
+              "responsive" : true,
+              "touch" : false
+            },
+            "radius" : 0,
+            "radiusBottomLeft" : 0,
+            "radiusBottomRight" : 0,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 0,
+            "radiusTopRight" : 0,
+            "replicaInfo" : null,
+            "right" : null,
+            "rotation" : 0,
+            "top" : 0,
+            "visible" : true,
+            "width" : 761,
+            "widthType" : 0
+          }
+        ],
+        "duplicatedFrom" : null,
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
+        "homeNodeId" : "rJczOWLVL",
+        "id" : "Bzk8RDXTo",
+        "name" : "Page 1",
+        "originalid" : null,
+        "parentid" : "DeKO03cQN",
+        "visible" : false
+      }
+    ],
+    "disableBackdropFilters" : false,
+    "duplicatedFrom" : null,
+    "id" : "DeKO03cQN",
+    "name" : null,
+    "originalid" : null,
+    "parentid" : null,
+    "tokens" : {
+      "0af4adbf-62f9-44c3-b6bc-7f7331c2031c" : {
+        "__class" : "ColorTokenNode",
+        "id" : "0af4adbf-62f9-44c3-b6bc-7f7331c2031c",
+        "name" : "yellow_700",
+        "value" : "rgb(188, 141, 0)"
+      },
+      "0ba6aa13-db85-4590-a281-e8abfe3c70e7" : {
+        "__class" : "ColorTokenNode",
+        "id" : "0ba6aa13-db85-4590-a281-e8abfe3c70e7",
+        "name" : "blue_400",
+        "value" : "rgb(114, 205, 244)"
+      },
+      "0f6dc471-8b15-477a-b366-f8d364b6db35" : {
+        "__class" : "ColorTokenNode",
+        "id" : "0f6dc471-8b15-477a-b366-f8d364b6db35",
+        "name" : "yellow_accent",
+        "value" : "rgb(255, 204, 51)"
+      },
+      "002b1ca8-3a2d-4d1d-9758-90c0383ffdb4" : {
+        "__class" : "ColorTokenNode",
+        "id" : "002b1ca8-3a2d-4d1d-9758-90c0383ffdb4",
+        "name" : "yellow_200",
+        "value" : "rgb(255, 250, 233)"
+      },
+      "4fa1f8a4-57fa-43b0-be85-bf7cf2f72b4d" : {
+        "__class" : "ColorTokenNode",
+        "id" : "4fa1f8a4-57fa-43b0-be85-bf7cf2f72b4d",
+        "name" : "yellow_300",
+        "value" : "rgb(255, 240, 197)"
+      },
+      "5c0a3096-b884-4cda-8441-776530912772" : {
+        "__class" : "ColorTokenNode",
+        "id" : "5c0a3096-b884-4cda-8441-776530912772",
+        "name" : "grey_600",
+        "value" : "rgb(80, 80, 80)"
+      },
+      "5d987784-f450-4fc0-91ef-956141546b8f" : {
+        "__class" : "ColorTokenNode",
+        "id" : "5d987784-f450-4fc0-91ef-956141546b8f",
+        "name" : "green_100",
+        "value" : "rgb(230, 241, 214)"
+      },
+      "7c058edc-a0eb-4b73-8bb7-2ef9aa0cc0d9" : {
+        "__class" : "ColorTokenNode",
+        "id" : "7c058edc-a0eb-4b73-8bb7-2ef9aa0cc0d9",
+        "name" : "grey_50",
+        "value" : "rgb(243, 243, 243)"
+      },
+      "8dd5b48e-b6e0-42f4-bae1-a46b8fd80542" : {
+        "__class" : "ColorTokenNode",
+        "id" : "8dd5b48e-b6e0-42f4-bae1-a46b8fd80542",
+        "name" : "grey_300",
+        "value" : "rgb(160, 160, 160)"
+      },
+      "9efe18fe-4793-4e6d-91b7-37a800ce20e3" : {
+        "__class" : "ColorTokenNode",
+        "id" : "9efe18fe-4793-4e6d-91b7-37a800ce20e3",
+        "name" : "blue_800",
+        "value" : "rgb(0, 51, 71)"
+      },
+      "10cdcc4d-4dd9-4af7-a452-7b7625d8714b" : {
+        "__class" : "ColorTokenNode",
+        "id" : "10cdcc4d-4dd9-4af7-a452-7b7625d8714b",
+        "name" : "red_500",
+        "value" : "rgb(255, 0, 51)"
+      },
+      "34b7e5c0-f975-4f61-b43d-30111988fef7" : {
+        "__class" : "ColorTokenNode",
+        "id" : "34b7e5c0-f975-4f61-b43d-30111988fef7",
+        "name" : "red_100",
+        "value" : "rgb(237, 194, 192)"
+      },
+      "51c7d72d-39ff-4503-85e2-670563c736fa" : {
+        "__class" : "ColorTokenNode",
+        "id" : "51c7d72d-39ff-4503-85e2-670563c736fa",
+        "name" : "blue_900",
+        "value" : "rgb(0, 37, 51)"
+      },
+      "210b7dd9-5603-4b93-985d-60f14cadab0b" : {
+        "__class" : "ColorTokenNode",
+        "id" : "210b7dd9-5603-4b93-985d-60f14cadab0b",
+        "name" : "red_300",
+        "value" : "rgb(226, 132, 118)"
+      },
+      "293e86f9-e249-4aba-b0c3-4d8b25a922e7" : {
+        "__class" : "ColorTokenNode",
+        "id" : "293e86f9-e249-4aba-b0c3-4d8b25a922e7",
+        "name" : "grey_200",
+        "value" : "rgb(200, 200, 200)"
+      },
+      "532dbe50-782b-42ab-a9b2-5ce7d0465069" : {
+        "__class" : "ColorTokenNode",
+        "id" : "532dbe50-782b-42ab-a9b2-5ce7d0465069",
+        "name" : "grey_500",
+        "value" : "rgb(100, 100, 100)"
+      },
+      "596acad0-d3a5-46d2-81c9-5fd6bb389348" : {
+        "__class" : "ColorTokenNode",
+        "id" : "596acad0-d3a5-46d2-81c9-5fd6bb389348",
+        "name" : "red_50",
+        "value" : "rgb(241, 217, 218)"
+      },
+      "782ba431-7642-4f72-a5ce-a285c273c53a" : {
+        "__class" : "ColorTokenNode",
+        "id" : "782ba431-7642-4f72-a5ce-a285c273c53a",
+        "name" : "yellow_400",
+        "value" : "rgb(255, 219, 110)"
+      },
+      "783ed02b-ae41-415f-a0b7-a6abba16e80c" : {
+        "__class" : "ColorTokenNode",
+        "id" : "783ed02b-ae41-415f-a0b7-a6abba16e80c",
+        "name" : "grey_900",
+        "value" : "rgba(0, 0, 0, 0.8)"
+      },
+      "981ca5e7-9e15-4cf3-a437-068457196bfe" : {
+        "__class" : "ColorTokenNode",
+        "id" : "981ca5e7-9e15-4cf3-a437-068457196bfe",
+        "name" : "grey_800",
+        "value" : "rgb(20, 20, 20)"
+      },
+      "1743cc3d-dcef-43cc-b6ba-34e5e98413d2" : {
+        "__class" : "ColorTokenNode",
+        "id" : "1743cc3d-dcef-43cc-b6ba-34e5e98413d2",
+        "name" : "red_accent",
+        "value" : "rgb(255, 0, 51)"
+      },
+      "7069cea9-c526-4eed-a461-56c6d021e970" : {
+        "__class" : "ColorTokenNode",
+        "id" : "7069cea9-c526-4eed-a461-56c6d021e970",
+        "name" : "blue_accent",
+        "value" : "rgb(0, 157, 220)"
+      },
+      "8388db40-e352-4394-81df-a1a3e652545c" : {
+        "__class" : "ColorTokenNode",
+        "id" : "8388db40-e352-4394-81df-a1a3e652545c",
+        "name" : "blue_300",
+        "value" : "rgb(208, 238, 251)"
+      },
+      "018995f6-2389-407c-ac29-cd758c5410cb" : {
+        "__class" : "ColorTokenNode",
+        "id" : "018995f6-2389-407c-ac29-cd758c5410cb",
+        "name" : "blue_700",
+        "value" : "rgb(0, 73, 102)"
+      },
+      "70610db5-5e47-470b-b169-98352f78b9e1" : {
+        "__class" : "ColorTokenNode",
+        "id" : "70610db5-5e47-470b-b169-98352f78b9e1",
+        "name" : "yellow_900",
+        "value" : "rgb(71, 54, 0)"
+      },
+      "04239383-bc8d-481f-9aec-400a1d050c57" : {
+        "__class" : "ColorTokenNode",
+        "id" : "04239383-bc8d-481f-9aec-400a1d050c57",
+        "name" : "blue_500",
+        "value" : "rgb(0, 157, 220)"
+      },
+      "a3ec3f05-9967-4f33-accf-286b38e2a039" : {
+        "__class" : "ColorTokenNode",
+        "id" : "a3ec3f05-9967-4f33-accf-286b38e2a039",
+        "name" : "blue_200",
+        "value" : "rgb(239, 249, 255)"
+      },
+      "a6b82148-caaa-4be5-82e3-105a23b152b6" : {
+        "__class" : "ColorTokenNode",
+        "id" : "a6b82148-caaa-4be5-82e3-105a23b152b6",
+        "name" : "yellow_500",
+        "value" : "rgb(255, 204, 51)"
+      },
+      "a513e690-d4ce-46b1-b9a8-feeb85fc2947" : {
+        "__class" : "ColorTokenNode",
+        "id" : "a513e690-d4ce-46b1-b9a8-feeb85fc2947",
+        "name" : "grey_400",
+        "value" : "rgb(130, 130, 130)"
+      },
+      "ac57e9d9-1f55-41ba-bfdf-1ed0d5a3c241" : {
+        "__class" : "ColorTokenNode",
+        "id" : "ac57e9d9-1f55-41ba-bfdf-1ed0d5a3c241",
+        "name" : "grey_100",
+        "value" : "rgb(230, 230, 230)"
+      },
+      "ba815603-9760-4e85-ad3b-eaeb7705abf8" : {
+        "__class" : "ColorTokenNode",
+        "id" : "ba815603-9760-4e85-ad3b-eaeb7705abf8",
+        "name" : "yellow_600",
+        "value" : "rgb(231, 172, 0)"
+      },
+      "c529d5cf-4dec-4f31-83de-a082054e5190" : {
+        "__class" : "ColorTokenNode",
+        "id" : "c529d5cf-4dec-4f31-83de-a082054e5190",
+        "name" : "grey_700",
+        "value" : "rgb(40, 40, 40)"
+      },
+      "cb1568a5-cc6f-4a6f-83e6-7a52ae920283" : {
+        "__class" : "ColorTokenNode",
+        "id" : "cb1568a5-cc6f-4a6f-83e6-7a52ae920283",
+        "name" : "yellow_800",
+        "value" : "rgb(141, 105, 0)"
+      },
+      "cbc8663f-764a-4426-911e-a2ff19824288" : {
+        "__class" : "ColorTokenNode",
+        "id" : "cbc8663f-764a-4426-911e-a2ff19824288",
+        "name" : "green_500",
+        "value" : "rgb(123, 192, 27)"
+      },
+      "cd23df2a-01a4-4313-8bf6-5f75fdfa1cbd" : {
+        "__class" : "ColorTokenNode",
+        "id" : "cd23df2a-01a4-4313-8bf6-5f75fdfa1cbd",
+        "name" : "green_50",
+        "value" : "rgb(240, 246, 232)"
+      },
+      "f890590b-a071-4a8a-b908-b20e23f0399a" : {
+        "__class" : "ColorTokenNode",
+        "id" : "f890590b-a071-4a8a-b908-b20e23f0399a",
+        "name" : "red_700",
+        "value" : "rgb(211, 47, 47)"
+      },
+      "fe72bd21-016a-4c6b-896e-6374380eb92f" : {
+        "__class" : "ColorTokenNode",
+        "id" : "fe72bd21-016a-4c6b-896e-6374380eb92f",
+        "name" : "blue_600",
+        "value" : "rgb(0, 113, 158)"
+      }
+    },
+    "tokensIndex" : [
+      "cd23df2a-01a4-4313-8bf6-5f75fdfa1cbd",
+      "5d987784-f450-4fc0-91ef-956141546b8f",
+      "cbc8663f-764a-4426-911e-a2ff19824288",
+      "596acad0-d3a5-46d2-81c9-5fd6bb389348",
+      "34b7e5c0-f975-4f61-b43d-30111988fef7",
+      "210b7dd9-5603-4b93-985d-60f14cadab0b",
+      "10cdcc4d-4dd9-4af7-a452-7b7625d8714b",
+      "f890590b-a071-4a8a-b908-b20e23f0399a",
+      "1743cc3d-dcef-43cc-b6ba-34e5e98413d2",
+      "002b1ca8-3a2d-4d1d-9758-90c0383ffdb4",
+      "4fa1f8a4-57fa-43b0-be85-bf7cf2f72b4d",
+      "782ba431-7642-4f72-a5ce-a285c273c53a",
+      "a6b82148-caaa-4be5-82e3-105a23b152b6",
+      "ba815603-9760-4e85-ad3b-eaeb7705abf8",
+      "0af4adbf-62f9-44c3-b6bc-7f7331c2031c",
+      "cb1568a5-cc6f-4a6f-83e6-7a52ae920283",
+      "70610db5-5e47-470b-b169-98352f78b9e1",
+      "0f6dc471-8b15-477a-b366-f8d364b6db35",
+      "a3ec3f05-9967-4f33-accf-286b38e2a039",
+      "8388db40-e352-4394-81df-a1a3e652545c",
+      "0ba6aa13-db85-4590-a281-e8abfe3c70e7",
+      "04239383-bc8d-481f-9aec-400a1d050c57",
+      "fe72bd21-016a-4c6b-896e-6374380eb92f",
+      "018995f6-2389-407c-ac29-cd758c5410cb",
+      "9efe18fe-4793-4e6d-91b7-37a800ce20e3",
+      "51c7d72d-39ff-4503-85e2-670563c736fa",
+      "7069cea9-c526-4eed-a461-56c6d021e970",
+      "7c058edc-a0eb-4b73-8bb7-2ef9aa0cc0d9",
+      "ac57e9d9-1f55-41ba-bfdf-1ed0d5a3c241",
+      "293e86f9-e249-4aba-b0c3-4d8b25a922e7",
+      "8dd5b48e-b6e0-42f4-bae1-a46b8fd80542",
+      "a513e690-d4ce-46b1-b9a8-feeb85fc2947",
+      "532dbe50-782b-42ab-a9b2-5ce7d0465069",
+      "5c0a3096-b884-4cda-8441-776530912772",
+      "c529d5cf-4dec-4f31-83de-a082054e5190",
+      "981ca5e7-9e15-4cf3-a437-068457196bfe",
+      "783ed02b-ae41-415f-a0b7-a6abba16e80c"
+    ],
+    "visible" : false
+  },
+  "version" : 74
+}

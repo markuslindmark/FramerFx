@@ -1,0 +1,24 @@
+{
+	"license": "MIT",
+	"main": "dist/index.js",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"displayName": "Axis Styled Components",
+		"id": "a5c47c73-2288-4380-9c2c-67b5ed76dac5"
+	},
+	"author": "Markus Lindmark",
+	"version": "1.23.0",
+	"dependencies": {
+		"@framer/framer.default": "^1.77.0",
+		"@material-ui/core": "^4.11.0",
+		"@material-ui/icons": "^4.9.1",
+		"naming-style": "^1.0.1"
+	},
+	"name": "@framer/225jty51.axis-styled-components"
+}
